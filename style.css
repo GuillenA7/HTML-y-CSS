@@ -65,4 +65,7 @@ body {
     color: #F6F6F6;
     font-family: "Monserrat", sans-serif;
     border: 2px solid #22D4FD;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
