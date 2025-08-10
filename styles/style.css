@@ -109,11 +109,17 @@ body {
 }
 
 .footer{
+    color: var(--color-primario);
     background-color: var(--color-terciario);
     padding: 1.5rem;
-    color: var(--color-primario);
     text-align: center;
     font-family: var(--fuente-monserrat);
     font-size: 1.5rem;
     font-weight: 400;
+}
+
+@media (max-width: 1200px){
+    .presentacion{
+        flex-direction: column=reverse;
+    }
 }
