@@ -58,7 +58,7 @@ git clone https://github.com/tuusuario/portafolio.git
 cd portafolio
 ```
 
-3. Abre el archivo index.html en tu navegador.
+3. Abre el archivo 'index.html' en tu navegador.
 
 ---
 
